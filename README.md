@@ -27,7 +27,7 @@ The Soil Analysis Backend is a RESTful API that processes soil data and provides
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshvardhan119/Soilanalysis.git
+   
    ```
 
 2. Navigate into the project directory:
